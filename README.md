@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dipankar Pal 
 
-A kernel hacker Currently Pursuing A Master's Degree In Computer Science With A Keen Interest Linux And Machine Learning.
+A kernel hacker Currently Pursuing A Master's Degree In Computer Science With A Keen Interest In Linux And Machine Learning.
 
 
 - 🌱 I’m currently learning openwrt
