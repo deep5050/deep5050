@@ -3,7 +3,7 @@
 <h3 align="center">A passionate kernel hacker from India</h3>
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.deep5050" alt="deep5050" align=center/> </p>
 
-- 👨‍💻 All of my projects are available at [deep5050.github.io](deep5050.github.io)
+- 👨‍💻 All of my projects are at [👉](deep5050.github.io)
 - 🌱 I’m currently learning openwrt
 - 💬 Ask me about **Linux**
 - 📫 Reach me **d.pal5050@gmail.com**
