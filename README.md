@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dipankar</h1>
 <h3 align="center">A passionate kernel hacker from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=deep5050" alt="deep5050" align=center/> </p>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.deep5050" alt="deep5050" align=center/> </p>
 
 - 👨‍💻 All of my projects are available at [deep5050.github.io](deep5050.github.io)
 - 🌱 I’m currently learning openwrt
