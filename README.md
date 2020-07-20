@@ -1,13 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm Dipankar ( ͡❛ ͜ʖ ͡❛)</h1>
+<h1 align="center">Hi 👋, I'm Dipankar </h1>
+<p align=center> ( ͡❛ ͜ʖ ͡❛)</p>
 <h3 align="center">A passionate kernel hacker from India</h3>
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.deep5050" alt="deep5050" align=center/> </p>
 
-<p align=center> 🌱 I’m currently learning openwrt</p>
-<p align=center> 💬 Ask me about Linux</p>
-<p align=center> 📫 Reach me d.pal5050@gmail.com</p>
-<p align=center> ⚡ Fun fact I don't have a girlfriend 😭</p>
+-🌱 I’m currently learning **openwrt**</p>
+- 💬 Ask me about **Linux**</p>
+-📫 Reach me **d.pal5050@gmail.com**</p>
+-⚡ Fun fact I don't have a girlfriend 😭</p>
 
 <p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deep5050&show_icons=true" alt="deep5050" /> </p>
 
