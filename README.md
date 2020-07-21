@@ -18,7 +18,7 @@
 
 <div align=center>
    <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
-   <img src="https://img.shields.io/badge/C++%20-%23e34f26.svg?&style=for-the-badge&logo=cpp&logoColor=white" />
+   <img src="https://img.shields.io/badge/electron%20-%23e34f26.svg?&style=for-the-badge&logo=electron&logoColor=white" />
    <img src="https://img.shields.io/badge/javascript%20-%23339933.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
