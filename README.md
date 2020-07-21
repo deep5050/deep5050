@@ -8,10 +8,10 @@
                                     {
                                       printf("Hi 👋, I'm Dipankar \n");
                                       printf("A passionate kernel hacker from India \n");
-                                      currentlyLearning = "openWRT";
-                                      AskMeAbout = "Linux";
-                                      ReachMeAt = "d.pal5050@gmail.com";
-                                      FunFact = "I don't have a girlfriend 😭";
+                                      char currentlyLearning[] = "openWRT";
+                                      char AskMeAbout[] = "Linux";
+                                      char ReachMeAt[] = "d.pal5050@gmail.com";
+                                      char FunFact[]  = "I don't have a girlfriend 😭";
                                     }
 ```
 
