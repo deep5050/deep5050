@@ -27,7 +27,7 @@
    <img src="https://img.shields.io/badge/Linux%20-%23e34f26.svg?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/java%20-%23339933.svg?&style=for-the-badge&logo=java&logoColor=white" />
    
-   <p align="center">  <img src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.deep5050" alt="deep5050" align=center/> </p>
+
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deep5050&show_icons=true" alt="deep5050" /> </p>
   </div>
  
