@@ -6,7 +6,7 @@
 
 <p align=center><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
 
-<p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/B9QemxJ.png" title="source: imgur.com" width=500 height=300 /></a></p>
+<p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>
 
 
 <!--
