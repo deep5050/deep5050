@@ -1,7 +1,4 @@
-
-   <p align=center ><img src="https://i.imgur.com/u0IETFu.png" title="source: imgur.com" /></p>
-
-
+<p align=center ><img src="https://i.imgur.com/u0IETFu.png" title="source: imgur.com" /></p>
 
 ```cpp  
                                     void life(void)
@@ -27,6 +24,8 @@
    <img src="https://img.shields.io/badge/Linux%20-%23e34f26.svg?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/java%20-%23339933.svg?&style=for-the-badge&logo=java&logoColor=white" />
    
+   <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p>
+
 
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deep5050&show_icons=true" alt="deep5050" /> </p>
   </div>
