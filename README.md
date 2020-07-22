@@ -6,8 +6,12 @@
 
 <p align=center><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
 
+<p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/B9QemxJ.png" title="source: imgur.com" width=500 height=300 /></a></p>
 
-```cpp  
+
+<!--
+<div>
+cpp  
                                     void life(void)
                                     {
                                       printf("Hi 👋, I'm Dipankar \n");
@@ -17,7 +21,10 @@
                                       char ReachMeAt[] = "d.pal5050@gmail.com";
                                       char FunFact[]  = "I don't have a girlfriend 😭";
                                     }
-```
+
+
+</div>
+!-->
 
 
 <div align=center>
