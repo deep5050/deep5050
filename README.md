@@ -53,7 +53,7 @@ cpp
 --!>
 
 <p align=center>                           
-  <img align=center src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdeep5050%2Fdeep5050" alt="Hits">                     
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.deep5050" alt="Visitors">                     
 </p>
 
 <p align="center">
