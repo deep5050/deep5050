@@ -58,7 +58,7 @@ cpp
 </p>
 
 <p align="center">
-<a href="https://instagram.com/dipankarpal5050/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dipankarpal5050" height="20" width="20" /></a>
+<a href="https://instagram.com/dpnkr.pl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dpnkr.pl" height="20" width="20" /></a>
 <a href="https://fb.com/deep.neon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deep.neon" height="20" width="20" /></a>
 </p>
 
