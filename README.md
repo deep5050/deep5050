@@ -59,6 +59,9 @@ cpp
 
 <p align="center">
 <a href="https://instagram.com/dpnkr.pl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dpnkr.pl" height="20" width="20" /></a>
-<a href="https://fb.com/deep.neon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deep.neon" height="20" width="20" /></a>
+<a href="https://fb.com/deep.neon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deep.neon" height="20" width="20" /></a></p>
+<p align=center><a href=https://www.youtube.com/channel/UCHE71XuJOPKlHSxSr40u5Lw> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCHE71XuJOPKlHSxSr40u5Lw?style=social"></a>
+  
+<a href=https://www.youtube.com/channel/UCHE71XuJOPKlHSxSr40u5Lw> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCHE71XuJOPKlHSxSr40u5Lw?style=social"></a></p>
 </p>
 
