@@ -8,7 +8,52 @@
 <p align=center><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
 
 <p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>
-
+<p align=center>
+  <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white >
+ <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen >
+ <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+ <img src=https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white >
+ <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white>
+<!-- -- -->
+<!--  --------- -->
+ <img src=https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white >
+ <img src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white >
+ <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white >
+ <img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white >
+ <img src=https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white >
+<!-- -------- -->
+ <img src=https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white>
+ <img src=https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white >
+ <img src=https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white >
+<!--   ------ -->
+<!--  <img src=https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white > -->
+<!--   --------- -->
+ <img src=https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white >
+ <img src=https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=whit >
+<!-- --------- -->
+ <img src=https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white >
+<!--   ------- -->
+ <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white >
+ <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white>
+ <img src=https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white >
+ <img src=https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white >
+ <img src=https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white >
+ <img src=https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white >
+<!--   ------- -->
+ <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black >
+ <img src=https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white>
+<!--   ----- -->
+ <img src=https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white >
+ <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white>
+<!--   --- -->
+ <img src=https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white>
+<!--   --- -->
+ <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white>
+ <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white>
+ <img src=https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white>
+ <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white>
+<!--   --- -->
+ </p>
 
 <!--
 <div>
@@ -41,7 +86,7 @@ cpp
    <img src="https://img.shields.io/badge/java%20-%23339933.svg?&style=for-the-badge&logo=java&logoColor=white" />
   !--> 
   
-   <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p>
+<!--    <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p> -->
 
 
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deep5050&show_icons=true" alt="deep5050" /> </p>
