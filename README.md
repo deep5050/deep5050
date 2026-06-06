@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I am a passionate **Embedded Systems Developer** who loves engineering impactful hardware/software solutions and exploring emerging technologies. Welcome to my digital corner of GitHub!
 
-📄 **[View My Portfolio](https://deep5050.github.io/)** | 📸 **[Check Out My Photography](https://github.com/deep5050/photobook)**
+📄 **[View My Portfolio](https://deep5050.github.io/)** | 📸 **[Check Out My Photography](https://deep5050.github.io/photobook/)**
 
 ---
 
